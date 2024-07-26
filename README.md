@@ -3,7 +3,7 @@
   <h1>Amyntor UI</h1>
   Amyntor UI is React UI library inspired by material design.
   <div>
-    ![Build Status]([https://github.com/github/docs/actions/workflows/main.yml/badge.svg])
+    ![Build Status]([https://github.com/pinaki-08/amyntor-ui/actions/workflows/node.js.yml/badge.svg])
   </div>
 </div>
 

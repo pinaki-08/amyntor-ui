@@ -3,7 +3,6 @@
   "version": "0.0.1",
   "description": "amyntor-ui provides the react UI components based on material design system",
   "scripts": {
-    "test": "npm run test",
     "format": "prettier --write --parser typescript '**/*.{ts,tsx}'",
     "lint": "eslint . --ext .ts,.tsx --ignore-path .gitignore --fix",
     "build": "tsc && vite build"
